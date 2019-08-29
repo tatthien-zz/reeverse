@@ -34,7 +34,7 @@ console.log(reversedText)
 // nv.tib21 olleH
 ```
 
-- Using for es-modules.
+- es-modules.
 
 ```js
 import reverse from 'reeverse'
@@ -51,3 +51,23 @@ console.log(reversedText)
 // nv.tib21 olleH
 </script>
 ```
+
+## Contribute
+
+All contributions, big or small, are warmheartedly welcome! Please follow these steps if you want to contribute to this project.
+
+### Clone and install dependencies
+
+```bash
+git clone https://github.com/tatthien/reeverse.git
+cd reeverse
+yarn install
+```
+
+### Build the library
+
+```bash
+yarn build
+```
+
+Once you're happy with the changes, commit the file and create a PR.
