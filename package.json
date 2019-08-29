@@ -1,7 +1,7 @@
 {
   "name": "reeverse",
   "version": "1.0.0",
-  "description": "Dead simple reverse text module.",
+  "description": "A dead simple text reverse library.",
   "main": "dist/reeverse.umd.js",
   "module": "dist/reeverse.esm.js",
   "unpkg": "dist/reeverse.min.js",
