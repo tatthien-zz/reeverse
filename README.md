@@ -22,7 +22,7 @@ $ yarn add reeverse
 
 ## Usage
 
-- In Node.js application.
+- In a Node.js application.
 
 ```js
 const reverse = require('reeverse')
@@ -34,7 +34,7 @@ console.log(reversedText)
 // nv.tib21 olleH
 ```
 
-- es-modules.
+- In a modular environment.
 
 ```js
 import reverse from 'reeverse'
@@ -71,3 +71,6 @@ yarn build
 ```
 
 Once you're happy with the changes, commit the file and create a PR.
+
+## License
+MIT © [Thien Nguyen](https://tatthien.com)
