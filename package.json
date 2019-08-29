@@ -1,0 +1,22 @@
+{
+  "name": "reeverse",
+  "version": "1.0.0",
+  "description": "Dead simple reverse text module.",
+  "main": "dist/reeverse.umd.js",
+  "module": "dist/reeverse.esm.js",
+  "unpkg": "dist/reeverse.min.js",
+  "scripts": {
+    "build": "rm -rf dist && rollup --config"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "rimraf": "^3.0.0",
+    "rollup": "^1.20.3",
+    "rollup-plugin-babel": "^4.3.3",
+    "rollup-plugin-terser": "^5.1.1"
+  }
+}
